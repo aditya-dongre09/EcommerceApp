@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "442630217262",
-    "firebase_url": "https://ecommerceapp-5446f.firebaseio.com",
-    "project_id": "ecommerceapp-5446f",
-    "storage_bucket": "ecommerceapp-5446f.appspot.com"
+    "project_number": "336078200298",
+    "firebase_url": "https://d-mart-14df7.firebaseio.com",
+    "project_id": "d-mart-14df7",
+    "storage_bucket": "d-mart-14df7.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:442630217262:android:617b59bb43bcbf0a6989bf",
+        "mobilesdk_app_id": "1:336078200298:android:2f961357bf454fc5aee693",
         "android_client_info": {
           "package_name": "com.example.ecommerceapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "442630217262-qvvl695ng9s7lfdcn5gge53saje10j84.apps.googleusercontent.com",
+          "client_id": "336078200298-nk04thh6dv52vqccvp4ea98fea59unc0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCpeUbLAxngOz_3Dx8qRXs3NP_6tOmOdPg"
+          "current_key": "AIzaSyA-PoYjig2DcK-4ifk2CdvxR2y_LtLGsHs"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "442630217262-qvvl695ng9s7lfdcn5gge53saje10j84.apps.googleusercontent.com",
+              "client_id": "336078200298-nk04thh6dv52vqccvp4ea98fea59unc0.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
